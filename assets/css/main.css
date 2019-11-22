@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin-ext');
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+li a
+{
+	list-style-type:none;
+}
+.pass
+{
+	margin-top: 100px;
+	text-align: center;
+}
+.text-primary_my
+{
+color:#b18845;
+font-weight:bold;
+}
+body{
+font-family: 'Raleway', sans-serif;
+background-image: url('images/bg_main.jpg'); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  max-height: 100%;
+}
+.main{
+  margin:auto;
+  margin-top:20px; 
+  margin-bottom: 70px;
+-webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.24);
+-moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.24);
+box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.24);
+padding:0px;
+background:rgba(33, 150, 243, 1);
+}
+.fore-left
+{
+ text-align: center;
+}
+.left-side{
+	padding:0px 0px 0px;
+	
+	background-size:cover;
+}
+.left-side h3{
+	font-size: 30px;
+    font-weight: 900;
+	color:#FFF;
+	padding: 30px 10px 00px 16px;
+	}
+	
+	.left-side p{
+    font-weight:600;
+	color:#FFF;
+	padding:10px 10px 0px 26px;
+	}
+
+	.right-side{
+	padding:0px 0px 0px;
+	background:#FFF;
+	background-size:cover;
+	min-height:300px;
+}
+	.right-side h3{
+	font-size: 30px;
+    font-weight: 700;
+	color:#000;
+	padding: 50px 10px 00px 50px;
+	}
+	/*.right-side p{
+    font-weight:600;
+	color:#000;
+	padding:10px 50px 10px 50px;
+	}*/
+	.form{padding:10px 50px 10px 50px;}
+    .form-control{box-shadow: none !important;
+    border-radius: 0px !important;
+    border-bottom: 1px solid #2196f3 !important;
+    border-top: 1px !important;
+    border-left: none !important;
+    border-right: none !important;}
+	.btn-deep-purple {
+    background: #2196f3;
+    border-radius: 18px;
+    padding: 5px 19px;
+    color: #FFF;
+    font-weight: 600;
+    float: right;
+	-webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.24);
+-moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.24);
+box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.24);
+}
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0.5rem;
+  background-color: transparent;
+  text-align: center;
+  color: #fff;
+}
+.login-ajax{text-align: center;}
+ul.aircraft-base-list{
+	list-style: none;
+    padding: 10px;
+    background: #ffff;
+    height: 150px;
+    overflow: auto;
+    position: absolute;
+    z-index: 99999;
+    background-color: white;
+	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+	border-radius:6px;
+}
+ul.aircraft-base-list li{
+	margin:3px 0;
+}
+
+
+ .bootstrap-timepicker-meridian,
+.meridian-column {
+  display: none
+}
+
+
+li.dropdown.side_view.open{
+    position: relative;
+}
+ul.dropdown-menu.side_view{
+    position: absolute;
+    width: 100%!important;
+}
+
+.text-dark{
+    color: #000000;
+}
+

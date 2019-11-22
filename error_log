@@ -1,0 +1,8 @@
+[05-Sep-2018 10:57:35 Asia/Dhaka] PHP Fatal error:  Call to undefined method DOMText::getAttribute() in /home/icraftsolu/public_html/projects/aviation/application/third_party/dompdf/include/cellmap.cls.php on line 407
+[05-Sep-2018 11:00:08 Asia/Dhaka] PHP Fatal error:  Call to undefined method DOMText::getAttribute() in /home/icraftsolu/public_html/projects/aviation/application/third_party/dompdf/include/cellmap.cls.php on line 409
+[05-Sep-2018 11:01:54 Asia/Dhaka] PHP Fatal error:  Call to undefined method DOMText::getAttribute() in /home/icraftsolu/public_html/projects/aviation/application/third_party/dompdf/include/cellmap.cls.php on line 409
+[05-Sep-2018 11:02:01 Asia/Dhaka] PHP Fatal error:  Call to undefined method DOMText::getAttribute() in /home/icraftsolu/public_html/projects/aviation/application/third_party/dompdf/include/cellmap.cls.php on line 409
+[06-Sep-2018 08:37:45 UTC] PHP Fatal error:  Using $this when not in object context in /home/icraftsolu/public_html/projects/aviation/application/helpers/asset_helper.php on line 691
+[06-Sep-2018 08:38:28 UTC] PHP Fatal error:  Using $this when not in object context in /home/icraftsolu/public_html/projects/aviation/application/helpers/asset_helper.php on line 691
+[06-Sep-2018 08:44:53 UTC] PHP Fatal error:  Using $this when not in object context in /home/icraftsolu/public_html/projects/aviation/application/helpers/asset_helper.php on line 691
+[06-Sep-2018 08:45:18 UTC] PHP Fatal error:  Using $this when not in object context in /home/icraftsolu/public_html/projects/aviation/application/helpers/asset_helper.php on line 691
